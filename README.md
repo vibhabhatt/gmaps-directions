@@ -28,3 +28,8 @@ The **Google Maps Directions Exporter** uses **Selenium WebDriver** to interact 
    ```bash
    git clone https://github.com/vibhabhatt/gmaps-directions
    cd gmaps-directions
+
+2. **Run the Automation**:
+   ```bash
+   mvn clean install
+
