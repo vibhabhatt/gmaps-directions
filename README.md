@@ -21,3 +21,10 @@ The **Google Maps Directions Exporter** uses **Selenium WebDriver** to interact 
 - **Apache POI**: Excel file manipulation.
 - **JUnit 4**: Unit testing framework.
 - **Maven**: Dependency management and build automation.
+
+## Installation and Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/vibhabhatt/gmaps-directions
+   cd gmaps-directions
